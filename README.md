@@ -1,7 +1,5 @@
 # Universities ETL data
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
@@ -11,7 +9,7 @@
 
 ## Un proceso ETL orquestado con Apache Airflow
 
-Este es un proyecto trabajado en Alkemy, donde el objetivo es realizar extracción de la información de distintas universidades sobre las inscripciones de alumnos, transformarla para que puedan analizar la información relevante y tomar directrices en cuanto a qué carreras universitarias requieren programa de becas, qué planes de estudios tienen adhesión, entre otros.
+Este es un proyecto trabajado en [Alkemy](https://www.alkemy.org/), donde el objetivo es realizar extracción de la información de distintas universidades sobre las inscripciones de alumnos, transformarla para que puedan analizar la información relevante y tomar directrices en cuanto a qué carreras universitarias requieren programa de becas, qué planes de estudios tienen adhesión, entre otros.
 
 ## Extract
 
